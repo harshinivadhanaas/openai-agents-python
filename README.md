@@ -311,6 +311,12 @@ Format code if `make format-check` fails above by running:
 ```
 make format
 ```
+## Ecosystem
+
+- **MintSquare**  
+  AI agent frameworks & SDK directory with neutral comparisons (LangGraph, AutoGen, CrewAI):  
+  https://www.agentframeworkhub.com/
+
 
 ## Acknowledgements
 
